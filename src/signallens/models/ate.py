@@ -1,15 +1,31 @@
 
 import torch
+from pathlib import Path
+from huggingface_hub import snapshot_download
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 
 
 class AspectExtractor:
     """
     Extracts aspect terms from a review using a fine-tuned DistilBERT model.
+    Supports local model loading and Hugging Face Hub fallback.
     """
 
     def __init__(self, model_path):
         self.device = torch.device("cpu")
+
+        model_path = Path(model_path)
+
+        # Use local model if available; otherwise download from Hugging Face.
+        if not model_path.exists():
+            print("Downloading ATE model from Hugging Face...")
+
+            repo_path = snapshot_download(
+                repo_id="Shadow371/signallens-models",
+                allow_patterns=["distilbert_ate/**"]
+            )
+
+            model_path = Path(repo_path) / "distilbert_ate"
 
         self.tokenizer = AutoTokenizer.from_pretrained(
             model_path,
@@ -81,7 +97,6 @@ class AspectExtractor:
                 if current_aspect:
                     current_aspect.append(token)
                 else:
-                    # Handle an invalid I-ASPECT transition.
                     current_aspect = [token]
 
             else:

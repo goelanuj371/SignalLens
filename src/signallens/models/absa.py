@@ -1,5 +1,7 @@
 
 import torch
+from pathlib import Path
+from huggingface_hub import snapshot_download
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 
@@ -7,10 +9,26 @@ class AspectSentimentClassifier:
     """
     Classifies sentiment toward a specific aspect in a review.
     Supports laptop and restaurant domains.
+    Supports local model loading and Hugging Face Hub fallback.
     """
 
     def __init__(self, model_path):
         self.device = torch.device("cpu")
+
+        model_path = Path(model_path)
+
+        # Use local model if available; otherwise download from Hugging Face.
+        if not model_path.exists():
+            model_name = model_path.name
+
+            print(f"Downloading {model_name} from Hugging Face...")
+
+            repo_path = snapshot_download(
+                repo_id="Shadow371/signallens-models",
+                allow_patterns=[f"{model_name}/**"]
+            )
+
+            model_path = Path(repo_path) / model_name
 
         self.tokenizer = AutoTokenizer.from_pretrained(
             model_path,
@@ -31,8 +49,6 @@ class AspectSentimentClassifier:
             2: "neutral",
             3: "conflict"
         }
-
-    
 
     def predict(self, sentence, aspect):
         inputs = self.tokenizer(
@@ -68,4 +84,3 @@ class AspectSentimentClassifier:
             "confidence": round(probabilities[predicted_id].item(), 4),
             "probabilities": all_probabilities
         }
-

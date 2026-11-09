@@ -1,0 +1,955 @@
+domain,aspect_normalized,mentions,positive,negative,neutral,conflict,avg_confidence,negative_rate,positive_rate
+laptop,price,20,13,3,1,3,0.72457,15.0,65.0
+laptop,performance,16,11,1,1,3,0.8459875,6.25,68.75
+laptop,os,14,10,1,2,1,0.8769142857142856,7.142857142857142,71.42857142857143
+laptop,features,12,7,1,2,2,0.7943166666666667,8.333333333333332,58.333333333333336
+laptop,windows 8,11,1,8,1,1,0.8123272727272728,72.72727272727273,9.090909090909092
+laptop,screen,10,7,1,0,2,0.8497600000000001,10.0,70.0
+laptop,use,10,10,0,0,0,0.92892,0.0,100.0
+laptop,size,9,6,0,1,2,0.8272333333333334,0.0,66.66666666666666
+laptop,keyboard,8,7,0,0,1,0.8723625,0.0,87.5
+laptop,works,8,8,0,0,0,0.912,0.0,100.0
+laptop,battery,7,4,3,0,0,0.8605571428571429,42.857142857142854,57.14285714285714
+laptop,runs,7,5,1,0,1,0.8593714285714286,14.285714285714285,71.42857142857143
+laptop,battery life,6,6,0,0,0,0.94165,0.0,100.0
+laptop,imac,6,2,0,3,1,0.5966333333333333,0.0,33.33333333333333
+laptop,operating system,6,4,1,1,0,0.78055,16.666666666666664,66.66666666666666
+laptop,ram,6,0,1,5,0,0.6725666666666666,16.666666666666664,0.0
+laptop,set up,6,6,0,0,0,0.9140833333333335,0.0,100.0
+laptop,speed,6,5,0,0,1,0.7709,0.0,83.33333333333334
+laptop,gaming,5,1,1,2,1,0.73058,20.0,20.0
+laptop,hard drive,5,1,0,3,1,0.7886599999999999,0.0,20.0
+laptop,hardware,5,0,2,1,2,0.7414400000000001,40.0,0.0
+laptop,mac os,5,1,3,0,1,0.70202,60.0,20.0
+laptop,software,5,3,1,1,0,0.7767799999999999,20.0,60.0
+laptop,usb ports,5,0,1,4,0,0.7682800000000001,20.0,0.0
+laptop,windows,5,1,0,4,0,0.53098,0.0,20.0
+laptop,windows 7,5,1,1,2,1,0.75914,20.0,20.0
+laptop,design,4,2,1,0,1,0.865725,25.0,50.0
+laptop,graphics,4,4,0,0,0,0.92965,0.0,100.0
+laptop,mouse,4,2,1,1,0,0.686575,25.0,50.0
+laptop,ports,4,2,0,2,0,0.8228,0.0,50.0
+laptop,shipping,4,3,0,1,0,0.8974,0.0,75.0
+laptop,sound,4,1,2,0,1,0.8159000000000001,50.0,25.0
+laptop,ssd,4,3,0,1,0,0.781775,0.0,75.0
+laptop,system,4,2,1,1,0,0.76925,25.0,50.0
+laptop,air,3,0,1,0,2,0.7189666666666668,33.33333333333333,0.0
+laptop,customer service,3,2,1,0,0,0.8960666666666667,33.33333333333333,66.66666666666666
+laptop,keys,3,1,2,0,0,0.7916666666666666,66.66666666666666,33.33333333333333
+laptop,memory,3,1,1,1,0,0.9045666666666667,33.33333333333333,33.33333333333333
+laptop,osx,3,0,1,1,1,0.6541333333333333,33.33333333333333,0.0
+laptop,portability,3,3,0,0,0,0.9042666666666667,0.0,100.0
+laptop,priced,3,2,0,1,0,0.8314,0.0,66.66666666666666
+laptop,quality,3,3,0,0,0,0.8647666666666667,0.0,100.0
+laptop,retina display,3,0,1,2,0,0.5799,33.33333333333333,0.0
+laptop,service,3,3,0,0,0,0.9128333333333334,0.0,100.0
+laptop,track pad,3,1,1,0,1,0.6526,33.33333333333333,33.33333333333333
+laptop,trackpad,3,2,1,0,0,0.9364333333333333,33.33333333333333,66.66666666666666
+laptop,usb3,3,1,0,0,2,0.4977333333333333,0.0,33.33333333333333
+laptop,volume,3,0,3,0,0,0.7914333333333333,100.0,0.0
+laptop,adapter,2,1,1,0,0,0.6024,50.0,50.0
+laptop,aluminum,2,2,0,0,0,0.94785,0.0,100.0
+laptop,application,2,1,0,0,1,0.58065,0.0,50.0
+laptop,apps,2,2,0,0,0,0.9377,0.0,100.0
+laptop,brightness,2,1,1,0,0,0.84175,50.0,50.0
+laptop,build,2,2,0,0,0,0.80445,0.0,100.0
+laptop,built,2,1,0,1,0,0.9122,0.0,50.0
+laptop,carry,2,2,0,0,0,0.9476,0.0,100.0
+laptop,case,2,0,1,0,1,0.73375,50.0,0.0
+laptop,cd/dvd player,2,0,0,2,0,0.63845,0.0,0.0
+laptop,colors,2,2,0,0,0,0.9493,0.0,100.0
+laptop,construction,2,2,0,0,0,0.9379500000000001,0.0,100.0
+laptop,cpu,2,1,0,1,0,0.73645,0.0,50.0
+laptop,delivery,2,2,0,0,0,0.9475,0.0,100.0
+laptop,disk drive,2,0,1,1,0,0.5583,50.0,0.0
+laptop,external,2,0,0,1,1,0.6849000000000001,0.0,0.0
+laptop,firewire 800,2,0,0,1,1,0.65175,0.0,0.0
+laptop,form factor,2,2,0,0,0,0.9450000000000001,0.0,100.0
+laptop,functionality,2,1,1,0,0,0.91915,50.0,50.0
+laptop,games,2,0,1,1,0,0.8187,50.0,0.0
+laptop,hdmi,2,0,1,1,0,0.6908000000000001,50.0,0.0
+laptop,install,2,1,0,1,0,0.79445,0.0,50.0
+laptop,iphoto,2,1,0,1,0,0.7614,0.0,50.0
+laptop,lion,2,0,2,0,0,0.56305,100.0,0.0
+laptop,logic board,2,0,2,0,0,0.7381,100.0,0.0
+laptop,looks,2,2,0,0,0,0.9484,0.0,100.0
+laptop,mavericks,2,2,0,0,0,0.58095,0.0,100.0
+laptop,mobility,2,2,0,0,0,0.9248000000000001,0.0,100.0
+laptop,office,2,1,0,1,0,0.6205499999999999,0.0,50.0
+laptop,on,2,1,0,1,0,0.7361500000000001,0.0,50.0
+laptop,operation,2,1,1,0,0,0.9093,50.0,50.0
+laptop,packing,2,2,0,0,0,0.9404,0.0,100.0
+laptop,pad,2,1,0,1,0,0.6137,0.0,50.0
+laptop,photoshop,2,0,0,2,0,0.7243999999999999,0.0,0.0
+laptop,price tag,2,0,1,1,0,0.65955,50.0,0.0
+laptop,ram memory,2,0,0,1,1,0.7498,0.0,0.0
+laptop,slot,2,0,1,1,0,0.7074,50.0,0.0
+laptop,speakers,2,0,1,0,1,0.85305,50.0,0.0
+laptop,ssd drive,2,0,0,2,0,0.8727499999999999,0.0,0.0
+laptop,start up,2,2,0,0,0,0.9512499999999999,0.0,100.0
+laptop,storage,2,2,0,0,0,0.91235,0.0,100.0
+laptop,support,2,0,2,0,0,0.8902,100.0,0.0
+laptop,tech,2,2,0,0,0,0.9476500000000001,0.0,100.0
+laptop,technical,2,0,2,0,0,0.7988,100.0,0.0
+laptop,technical support,2,0,1,1,0,0.86285,50.0,0.0
+laptop,touchpad,2,0,2,0,0,0.85115,100.0,0.0
+laptop,unibody construction,2,2,0,0,0,0.8506499999999999,0.0,100.0
+laptop,user,2,2,0,0,0,0.8684499999999999,0.0,100.0
+laptop,web browsing,2,1,0,1,0,0.76335,0.0,50.0
+laptop,weight,2,2,0,0,0,0.9350499999999999,0.0,100.0
+laptop,word processing,2,1,0,1,0,0.7379,0.0,50.0
+laptop,""" type keys",1,0,1,0,0,0.8639,100.0,0.0
+laptop,/,1,0,1,0,0,0.8683,100.0,0.0
+laptop,16gb ram,1,0,0,1,0,0.8521,0.0,0.0
+laptop,2,1,0,0,1,0,0.4998,0.0,0.0
+laptop,"21"" led screen",1,1,0,0,0,0.7838,0.0,100.0
+laptop,"24"" lcd screen",1,0,0,1,0,0.8902,0.0,0.0
+laptop,3d rendering,1,0,1,0,0,0.7227,100.0,0.0
+laptop,512mb graphic card,1,1,0,0,0,0.4852,0.0,100.0
+laptop,ac adaptor,1,0,0,1,0,0.6783,0.0,0.0
+laptop,accidental protection warranty,1,0,0,1,0,0.8491,0.0,0.0
+laptop,acer support,1,0,1,0,0,0.7804,100.0,0.0
+laptop,acs,1,0,0,1,0,0.5856,0.0,0.0
+laptop,adsl cable,1,1,0,0,0,0.9452,0.0,100.0
+laptop,aesthetics,1,0,1,0,0,0.8161,100.0,0.0
+laptop,air flow,1,1,0,0,0,0.9339,0.0,100.0
+laptop,alienware,1,0,1,0,0,0.9048,100.0,0.0
+laptop,aluminium,1,1,0,0,0,0.9301,0.0,100.0
+laptop,aluminum body,1,1,0,0,0,0.9446,0.0,100.0
+laptop,aluminum casing,1,1,0,0,0,0.8827,0.0,100.0
+laptop,appearance,1,1,0,0,0,0.9417,0.0,100.0
+laptop,apple customer support,1,0,1,0,0,0.8738,100.0,0.0
+laptop,apple engineers,1,0,1,0,0,0.788,100.0,0.0
+laptop,apple tech support,1,0,0,1,0,0.8366,0.0,0.0
+laptop,apples,1,0,0,0,1,0.7636,0.0,0.0
+laptop,appleworks,1,0,0,1,0,0.7733,0.0,0.0
+laptop,audio volume,1,0,1,0,0,0.9096,100.0,0.0
+laptop,back,1,0,1,0,0,0.9084,100.0,0.0
+laptop,bag,1,0,0,1,0,0.4395,0.0,0.0
+laptop,bass,1,0,1,0,0,0.872,100.0,0.0
+laptop,baterry,1,1,0,0,0,0.7273,0.0,100.0
+laptop,battery cycle count,1,0,0,0,1,0.5771,0.0,0.0
+laptop,battery lifetime,1,0,1,0,0,0.8864,100.0,0.0
+laptop,bility,1,1,0,0,0,0.7216,0.0,100.0
+laptop,bluetooth devices,1,1,0,0,0,0.7337,0.0,100.0
+laptop,bluetooth interface,1,0,1,0,0,0.9249,100.0,0.0
+laptop,body,1,1,0,0,0,0.6988,0.0,100.0
+laptop,boot time,1,1,0,0,0,0.8796,0.0,100.0
+laptop,boot-up,1,0,0,1,0,0.4642,0.0,0.0
+laptop,bridge,1,0,0,1,0,0.8859,0.0,0.0
+laptop,build quality,1,1,0,0,0,0.9375,0.0,100.0
+laptop,built in features,1,1,0,0,0,0.4993,0.0,100.0
+laptop,built quality,1,1,0,0,0,0.9182,0.0,100.0
+laptop,built-in applications,1,1,0,0,0,0.913,0.0,100.0
+laptop,built-in apps,1,1,0,0,0,0.9232,0.0,100.0
+laptop,built-in camera,1,0,0,1,0,0.7544,0.0,0.0
+laptop,built-in mic,1,0,1,0,0,0.8466,100.0,0.0
+laptop,cable,1,0,0,1,0,0.8449,0.0,0.0
+laptop,capabilities,1,1,0,0,0,0.9531,0.0,100.0
+laptop,card reader,1,0,0,1,0,0.7352,0.0,0.0
+laptop,care,1,0,0,1,0,0.8162,0.0,0.0
+laptop,cd rom,1,0,1,0,0,0.6003,100.0,0.0
+laptop,cd slot,1,0,0,1,0,0.6181,0.0,0.0
+laptop,cd/dvd drive,1,0,0,1,0,0.6102,0.0,0.0
+laptop,charging,1,1,0,0,0,0.9164,0.0,100.0
+laptop,charging cables,1,0,1,0,0,0.8501,100.0,0.0
+laptop,click pads,1,0,1,0,0,0.6056,100.0,0.0
+laptop,clicking,1,1,0,0,0,0.8108,0.0,100.0
+laptop,code,1,0,0,1,0,0.9135,0.0,0.0
+laptop,commputer,1,1,0,0,0,0.9136,0.0,100.0
+laptop,component,1,0,1,0,0,0.8267,100.0,0.0
+laptop,components,1,0,1,0,0,0.8891,100.0,0.0
+laptop,computing equipment,1,0,0,1,0,0.8498,0.0,0.0
+laptop,configuration,1,1,0,0,0,0.9516,0.0,100.0
+laptop,connectivity,1,1,0,0,0,0.9167,0.0,100.0
+laptop,cons,1,0,1,0,0,0.8728,100.0,0.0
+laptop,content,1,0,0,1,0,0.7464,0.0,0.0
+laptop,cost,1,1,0,0,0,0.4483,0.0,100.0
+laptop,craftmanship,1,0,1,0,0,0.8234,100.0,0.0
+laptop,customization,1,0,1,0,0,0.9164,100.0,0.0
+laptop,deck,1,1,0,0,0,0.9111,0.0,100.0
+laptop,delete key,1,0,1,0,0,0.7306,100.0,0.0
+laptop,design app,1,0,1,0,0,0.8263,100.0,0.0
+laptop,designed,1,1,0,0,0,0.9539,0.0,100.0
+laptop,details,1,1,0,0,0,0.9371,0.0,100.0
+laptop,disc drive,1,0,1,0,0,0.8294,100.0,0.0
+laptop,display,1,1,0,0,0,0.9471,0.0,100.0
+laptop,download,1,1,0,0,0,0.9411,0.0,100.0
+laptop,du,1,1,0,0,0,0.5622,0.0,100.0
+laptop,dual-core i7 chip,1,1,0,0,0,0.8305,0.0,100.0
+laptop,dvd drive firewire port,1,0,1,0,0,0.6591,100.0,0.0
+laptop,dvd slot,1,0,1,0,0,0.6413,100.0,0.0
+laptop,e,1,0,0,1,0,0.7651,0.0,0.0
+laptop,ecosystem,1,0,0,0,1,0.3412,0.0,0.0
+laptop,editing,1,1,0,0,0,0.9245,0.0,100.0
+laptop,ethernet,1,0,0,1,0,0.7365,0.0,0.0
+laptop,extender cable,1,0,0,1,0,0.8338,0.0,0.0
+laptop,exterior,1,1,0,0,0,0.939,0.0,100.0
+laptop,external microphones,1,0,1,0,0,0.8308,100.0,0.0
+laptop,external mics,1,0,1,0,0,0.4476,100.0,0.0
+laptop,fans,1,0,0,0,1,0.5135,0.0,0.0
+laptop,feature,1,0,0,0,1,0.4754,0.0,0.0
+laptop,feature set,1,0,0,1,0,0.8155,0.0,0.0
+laptop,filemaker pro,1,0,0,1,0,0.7593,0.0,0.0
+laptop,finish,1,1,0,0,0,0.9474,0.0,100.0
+laptop,firmware patch,1,0,1,0,0,0.61,100.0,0.0
+laptop,fix,1,1,0,0,0,0.8511,0.0,100.0
+laptop,fonts,1,0,0,0,1,0.6564,0.0,0.0
+laptop,functions,1,1,0,0,0,0.9399,0.0,100.0
+laptop,ga,1,1,0,0,0,0.8989,0.0,100.0
+laptop,garage band,1,1,0,0,0,0.5045,0.0,100.0
+laptop,gate,1,0,0,1,0,0.8959,0.0,0.0
+laptop,gateway,1,0,1,0,0,0.8836,100.0,0.0
+laptop,gigabit ethernet,1,0,0,1,0,0.8899,0.0,0.0
+laptop,glass,1,1,0,0,0,0.93,0.0,100.0
+laptop,graphic design,1,1,0,0,0,0.6375,0.0,100.0
+laptop,graphics card,1,0,1,0,0,0.8764,100.0,0.0
+laptop,grip,1,0,1,0,0,0.8896,100.0,0.0
+laptop,handle,1,1,0,0,0,0.9489,0.0,100.0
+laptop,harddrive,1,0,1,0,0,0.9236,100.0,0.0
+laptop,hardware performance,1,0,0,0,1,0.7952,0.0,0.0
+laptop,haswell cpu,1,0,0,1,0,0.8932,0.0,0.0
+laptop,hd,1,0,0,1,0,0.869,0.0,0.0
+laptop,hdd,1,0,0,1,0,0.5378,0.0,0.0
+laptop,hdmi cable,1,0,0,1,0,0.7831,0.0,0.0
+laptop,hdmi cables,1,0,0,1,0,0.8626,0.0,0.0
+laptop,hdmi port,1,0,1,0,0,0.7733,100.0,0.0
+laptop,hdmi receptacle,1,0,0,1,0,0.6415,0.0,0.0
+laptop,heat,1,0,0,0,1,0.604,0.0,0.0
+laptop,heat output,1,1,0,0,0,0.8017,0.0,100.0
+laptop,i5 processor,1,1,0,0,0,0.9288,0.0,100.0
+laptop,ials,1,1,0,0,0,0.7372,0.0,100.0
+laptop,ibody,1,1,0,0,0,0.9382,0.0,100.0
+laptop,idvd,1,0,1,0,0,0.9044,100.0,0.0
+laptop,inspiron,1,1,0,0,0,0.8597,0.0,100.0
+laptop,installation disk (dvd,1,0,0,1,0,0.6385,0.0,0.0
+laptop,instructions,1,0,1,0,0,0.9274,100.0,0.0
+laptop,integrated intel 4000 card,1,0,0,1,0,0.51,0.0,0.0
+laptop,integrated intel 4000 graphics,1,0,1,0,0,0.684,100.0,0.0
+laptop,intel 4000 graphics chipset,1,0,1,0,0,0.8767,100.0,0.0
+laptop,intel4000 graphic chip,1,0,1,0,0,0.4822,100.0,0.0
+laptop,interface,1,1,0,0,0,0.9315,0.0,100.0
+laptop,internal cd drive,1,0,1,0,0,0.8823,100.0,0.0
+laptop,internal speakers,1,0,1,0,0,0.8135,100.0,0.0
+laptop,internet,1,1,0,0,0,0.9287,0.0,100.0
+laptop,interneting,1,0,1,0,0,0.9107,100.0,0.0
+laptop,ios system,1,1,0,0,0,0.5666,0.0,100.0
+laptop,ipes,1,0,1,0,0,0.4422,100.0,0.0
+laptop,itunes,1,1,0,0,0,0.9486,0.0,100.0
+laptop,key board,1,0,0,1,0,0.5704,0.0,0.0
+laptop,keyboard),1,0,1,0,0,0.8826,100.0,0.0
+laptop,lan device drivers,1,0,0,1,0,0.9158,0.0,0.0
+laptop,latte,1,0,1,0,0,0.8703,100.0,0.0
+laptop,legacy programs,1,0,0,1,0,0.7651,0.0,0.0
+laptop,lid,1,0,0,1,0,0.711,0.0,0.0
+laptop,lighted screen,1,1,0,0,0,0.9149,0.0,100.0
+laptop,loading,1,1,0,0,0,0.9299,0.0,100.0
+laptop,log on,1,1,0,0,0,0.9547,0.0,100.0
+laptop,looking,1,1,0,0,0,0.9395,0.0,100.0
+laptop,mac,1,1,0,0,0,0.7247,0.0,100.0
+laptop,mac office,1,0,1,0,0,0.8364,100.0,0.0
+laptop,mac os improvement,1,0,1,0,0,0.8654,100.0,0.0
+laptop,mac os x 10,1,0,0,1,0,0.8828,0.0,0.0
+laptop,magsafe port,1,0,0,1,0,0.887,0.0,0.0
+laptop,microphone jack,1,0,0,1,0,0.8844,0.0,0.0
+laptop,microsoft,1,0,1,0,0,0.8778,100.0,0.0
+laptop,microsoft office,1,1,0,0,0,0.8152,0.0,100.0
+laptop,microsoft windows,1,0,0,1,0,0.3086,0.0,0.0
+laptop,microsoft word,1,0,0,1,0,0.325,0.0,0.0
+laptop,mini form factor,1,1,0,0,0,0.9452,0.0,100.0
+laptop,monitors,1,0,0,1,0,0.8706,0.0,0.0
+laptop,mother board,1,0,1,0,0,0.8809,100.0,0.0
+laptop,mother boards,1,0,0,1,0,0.8041,0.0,0.0
+laptop,mountain lion os,1,0,0,1,0,0.3628,0.0,0.0
+laptop,mouse click menu,1,0,0,1,0,0.6358,0.0,0.0
+laptop,ms office,1,1,0,0,0,0.9249,0.0,100.0
+laptop,multi touch gestures,1,1,0,0,0,0.6021,0.0,100.0
+laptop,n ssd,1,0,0,1,0,0.8501,0.0,0.0
+laptop,nail slot,1,0,0,1,0,0.6598,0.0,0.0
+laptop,navigate,1,1,0,0,0,0.9494,0.0,100.0
+laptop,network lights,1,0,0,1,0,0.6333,0.0,0.0
+laptop,noise,1,0,0,0,1,0.5511,0.0,0.0
+laptop,on hd 67,1,0,0,1,0,0.4852,0.0,0.0
+laptop,on/off switch,1,0,1,0,0,0.6697,100.0,0.0
+laptop,openoffice,1,1,0,0,0,0.8115,0.0,100.0
+laptop,os 10,1,0,1,0,0,0.8224,100.0,0.0
+laptop,os x mountain lion,1,0,0,1,0,0.7269,0.0,0.0
+laptop,os.x,1,0,0,1,0,0.3765,0.0,0.0
+laptop,osx lion,1,1,0,0,0,0.9488,0.0,100.0
+laptop,owc upgrade kit,1,0,0,1,0,0.8843,0.0,0.0
+laptop,ownership,1,0,0,1,0,0.7132,0.0,0.0
+laptop,package,1,1,0,0,0,0.6953,0.0,100.0
+laptop,packages,1,1,0,0,0,0.9272,0.0,100.0
+laptop,physical form,1,1,0,0,0,0.9498,0.0,100.0
+laptop,power adaptor,1,0,1,0,0,0.8172,100.0,0.0
+laptop,power plug,1,0,1,0,0,0.8322,100.0,0.0
+laptop,power supply,1,0,0,0,1,0.5817,0.0,0.0
+laptop,power switch,1,0,0,1,0,0.6181,0.0,0.0
+laptop,power-off,1,0,1,0,0,0.8719,100.0,0.0
+laptop,precision,1,1,0,0,0,0.9514,0.0,100.0
+laptop,presentation,1,1,0,0,0,0.955,0.0,100.0
+laptop,product quality,1,0,1,0,0,0.8534,100.0,0.0
+laptop,profile,1,0,1,0,0,0.799,100.0,0.0
+laptop,projector,1,0,0,1,0,0.568,0.0,0.0
+laptop,purchase,1,1,0,0,0,0.9009,0.0,100.0
+laptop,quad-core,1,1,0,0,0,0.5231,0.0,100.0
+laptop,quicken,1,0,0,1,0,0.6525,0.0,0.0
+laptop,ra,1,1,0,0,0,0.5972,0.0,100.0
+laptop,range,1,0,1,0,0,0.918,100.0,0.0
+laptop,receiver,1,1,0,0,0,0.9253,0.0,100.0
+laptop,recovery usb stick,1,0,0,1,0,0.845,0.0,0.0
+laptop,reliability,1,0,0,1,0,0.6995,0.0,0.0
+laptop,res,1,0,0,0,1,0.5676,0.0,0.0
+laptop,resolution,1,0,0,0,1,0.7385,0.0,0.0
+laptop,restore disks,1,0,1,0,0,0.8438,100.0,0.0
+laptop,retina display display,1,0,1,0,0,0.6367,100.0,0.0
+laptop,right click button,1,1,0,0,0,0.8066,0.0,100.0
+laptop,room,1,1,0,0,0,0.9053,0.0,100.0
+laptop,rubber pads,1,0,1,0,0,0.8977,100.0,0.0
+laptop,run,1,1,0,0,0,0.8708,0.0,100.0
+laptop,running,1,1,0,0,0,0.9431,0.0,100.0
+laptop,safari browser,1,1,0,0,0,0.6355,0.0,100.0
+laptop,sales,1,0,1,0,0,0.9108,100.0,0.0
+laptop,screen display,1,1,0,0,0,0.9455,0.0,100.0
+laptop,screen resolution,1,0,0,1,0,0.5739,0.0,0.0
+laptop,screen size,1,0,0,1,0,0.889,0.0,0.0
+laptop,sd card reader,1,0,0,1,0,0.6175,0.0,0.0
+laptop,sd card slot,1,0,0,1,0,0.6285,0.0,0.0
+laptop,sdxc slot,1,0,1,0,0,0.6899,100.0,0.0
+laptop,security,1,1,0,0,0,0.947,0.0,100.0
+laptop,separate,1,0,0,1,0,0.7356,0.0,0.0
+laptop,setting,1,1,0,0,0,0.9316,0.0,100.0
+laptop,settings,1,0,1,0,0,0.8984,100.0,0.0
+laptop,setup,1,0,0,1,0,0.6282,0.0,0.0
+laptop,shipment,1,1,0,0,0,0.942,0.0,100.0
+laptop,shipped,1,1,0,0,0,0.903,0.0,100.0
+laptop,simplicity,1,1,0,0,0,0.9404,0.0,100.0
+laptop,snow,1,1,0,0,0,0.9184,0.0,100.0
+laptop,softwares,1,1,0,0,0,0.9071,0.0,100.0
+laptop,solution,1,1,0,0,0,0.5758,0.0,100.0
+laptop,sound quality,1,0,1,0,0,0.6991,100.0,0.0
+laptop,space,1,0,0,0,1,0.5135,0.0,0.0
+laptop,speaker quality,1,0,1,0,0,0.7069,100.0,0.0
+laptop,specs,1,1,0,0,0,0.8943,0.0,100.0
+laptop,spinning hard disk,1,0,0,1,0,0.862,0.0,0.0
+laptop,squaretrade 3-year,1,0,0,1,0,0.824,0.0,0.0
+laptop,start menu,1,0,0,1,0,0.8631,0.0,0.0
+laptop,startup disk,1,0,1,0,0,0.6032,100.0,0.0
+laptop,startup times,1,1,0,0,0,0.9112,0.0,100.0
+laptop,sticker,1,1,0,0,0,0.8971,0.0,100.0
+laptop,stocks,1,0,1,0,0,0.9115,100.0,0.0
+laptop,streaming video,1,1,0,0,0,0.8912,0.0,100.0
+laptop,superdrive,1,1,0,0,0,0.853,0.0,100.0
+laptop,surfing,1,1,0,0,0,0.9258,0.0,100.0
+laptop,sy,1,0,0,1,0,0.89,0.0,0.0
+laptop,tax,1,0,0,1,0,0.7582,0.0,0.0
+laptop,tech support,1,0,1,0,0,0.4131,100.0,0.0
+laptop,technology,1,0,1,0,0,0.8022,100.0,0.0
+laptop,thunderbolt,1,0,1,0,0,0.6215,100.0,0.0
+laptop,thunderbolt port,1,1,0,0,0,0.9318,0.0,100.0
+laptop,time response,1,1,0,0,0,0.9546,0.0,100.0
+laptop,"tools"" menu",1,0,1,0,0,0.7405,100.0,0.0
+laptop,touch,1,1,0,0,0,0.9514,0.0,100.0
+laptop,touch cables,1,0,1,0,0,0.8486,100.0,0.0
+laptop,touch pad,1,0,0,0,1,0.7367,0.0,0.0
+laptop,touch screen,1,0,0,1,0,0.6795,0.0,0.0
+laptop,touchscreen functions,1,0,1,0,0,0.9055,100.0,0.0
+laptop,transport,1,1,0,0,0,0.9527,0.0,100.0
+laptop,troubleshooting,1,0,0,1,0,0.6236,0.0,0.0
+laptop,up,1,0,0,1,0,0.789,0.0,0.0
+laptop,us xt hybrid drives,1,0,0,1,0,0.8832,0.0,0.0
+laptop,usability,1,1,0,0,0,0.9547,0.0,100.0
+laptop,usb 2 ports,1,0,1,0,0,0.8387,100.0,0.0
+laptop,usb devices,1,1,0,0,0,0.7622,0.0,100.0
+laptop,usb3 peripherals,1,0,1,0,0,0.6011,100.0,0.0
+laptop,user type,1,0,0,1,0,0.6889,0.0,0.0
+laptop,ux,1,1,0,0,0,0.9499,0.0,100.0
+laptop,value,1,1,0,0,0,0.9497,0.0,100.0
+laptop,ventilation system,1,0,1,0,0,0.9168,100.0,0.0
+laptop,vga port,1,0,0,1,0,0.7362,0.0,0.0
+laptop,virus control,1,1,0,0,0,0.9234,0.0,100.0
+laptop,wallet,1,1,0,0,0,0.5789,0.0,100.0
+laptop,warranty,1,0,0,1,0,0.7211,0.0,0.0
+laptop,web surfuring,1,1,0,0,0,0.953,0.0,100.0
+laptop,wifi,1,1,0,0,0,0.947,0.0,100.0
+laptop,wifi capability,1,0,0,1,0,0.6175,0.0,0.0
+laptop,wifi connection,1,1,0,0,0,0.952,0.0,100.0
+laptop,wind,1,0,0,1,0,0.7276,0.0,0.0
+laptop,windows 8 set-up,1,0,1,0,0,0.8193,100.0,0.0
+laptop,windows updates,1,0,0,1,0,0.6724,0.0,0.0
+laptop,windows vista,1,0,0,1,0,0.8712,0.0,0.0
+laptop,windows xp,1,0,0,1,0,0.8698,0.0,0.0
+laptop,wireless apple keyboard,1,1,0,0,0,0.5351,0.0,100.0
+laptop,wireless keyboard / mouse,1,0,0,1,0,0.7521,0.0,0.0
+laptop,wireless mouse,1,0,0,1,0,0.6194,0.0,0.0
+laptop,"wlan"" card",1,0,0,1,0,0.9166,0.0,0.0
+laptop,word processing program,1,0,0,1,0,0.8075,0.0,0.0
+laptop,word program,1,1,0,0,0,0.8899,0.0,100.0
+laptop,work,1,0,1,0,0,0.9227,100.0,0.0
+laptop,xp,1,0,1,0,0,0.8652,100.0,0.0
+restaurant,food,132,91,15,14,12,0.8428159090909091,11.363636363636363,68.93939393939394
+restaurant,service,76,54,17,3,2,0.8859131578947369,22.36842105263158,71.05263157894737
+restaurant,menu,25,13,5,4,3,0.791284,20.0,52.0
+restaurant,atmosphere,23,17,1,1,4,0.8972391304347827,4.3478260869565215,73.91304347826086
+restaurant,staff,22,15,5,1,1,0.8773545454545455,22.727272727272727,68.18181818181817
+restaurant,sushi,20,14,1,3,2,0.911865,5.0,70.0
+restaurant,prices,18,10,6,0,2,0.7158666666666667,33.33333333333333,55.55555555555556
+restaurant,meal,16,11,2,2,1,0.86425625,12.5,68.75
+restaurant,place,15,10,3,0,2,0.86406,20.0,66.66666666666666
+restaurant,drinks,13,7,1,5,0,0.8579384615384615,7.6923076923076925,53.84615384615385
+restaurant,waiter,13,3,9,1,0,0.8080153846153847,69.23076923076923,23.076923076923077
+restaurant,pizza,12,7,0,3,2,0.8696416666666668,0.0,58.333333333333336
+restaurant,price,11,6,3,1,1,0.8012999999999999,27.27272727272727,54.54545454545454
+restaurant,bar,9,6,0,3,0,0.8454555555555555,0.0,66.66666666666666
+restaurant,desserts,9,8,0,1,0,0.9087666666666667,0.0,88.88888888888889
+restaurant,wine,9,7,0,2,0,0.9389222222222222,0.0,77.77777777777779
+restaurant,lunch,8,1,0,6,1,0.7926375,0.0,12.5
+restaurant,waiters,8,4,4,0,0,0.8748625,50.0,50.0
+restaurant,dinner,7,4,0,2,1,0.8313857142857143,0.0,57.14285714285714
+restaurant,owner,7,5,1,0,1,0.9091428571428571,14.285714285714285,71.42857142857143
+restaurant,portions,7,4,2,1,0,0.9208999999999999,28.57142857142857,57.14285714285714
+restaurant,priced,7,6,1,0,0,0.9331857142857143,14.285714285714285,85.71428571428571
+restaurant,appetizers,6,3,0,3,0,0.7965333333333332,0.0,50.0
+restaurant,entrees,6,5,1,0,0,0.8885333333333333,16.666666666666664,83.33333333333334
+restaurant,indian food,6,4,1,1,0,0.8648333333333333,16.666666666666664,66.66666666666666
+restaurant,salads,6,5,0,1,0,0.9290833333333333,0.0,83.33333333333334
+restaurant,served,6,3,0,3,0,0.7904833333333334,0.0,50.0
+restaurant,bartender,5,2,1,2,0,0.7138,20.0,40.0
+restaurant,burgers,5,5,0,0,0,0.85128,0.0,100.0
+restaurant,decor,5,4,0,1,0,0.79918,0.0,80.0
+restaurant,dining,5,2,3,0,0,0.86606,60.0,40.0
+restaurant,dishes,5,5,0,0,0,0.8966,0.0,100.0
+restaurant,drink,5,2,0,3,0,0.85778,0.0,40.0
+restaurant,quality,5,3,1,0,1,0.64796,20.0,60.0
+restaurant,sandwiches,5,4,0,1,0,0.85732,0.0,80.0
+restaurant,sauce,5,3,2,0,0,0.89786,40.0,60.0
+restaurant,space,5,4,1,0,0,0.8469199999999999,20.0,80.0
+restaurant,value,5,5,0,0,0,0.8992000000000001,0.0,100.0
+restaurant,ambiance,4,2,0,0,2,0.906325,0.0,50.0
+restaurant,bill,4,1,2,1,0,0.726075,50.0,25.0
+restaurant,cake,4,1,0,0,3,0.7497499999999999,0.0,25.0
+restaurant,coffee,4,3,0,1,0,0.756325,0.0,75.0
+restaurant,crust,4,2,1,1,0,0.787075,25.0,50.0
+restaurant,dessert,4,3,1,0,0,0.8959,25.0,75.0
+restaurant,dish,4,2,1,0,1,0.8254,25.0,50.0
+restaurant,flavor,4,1,0,0,3,0.729425,0.0,25.0
+restaurant,host,4,3,1,0,0,0.911975,25.0,75.0
+restaurant,manager,4,0,4,0,0,0.784725,100.0,0.0
+restaurant,music,4,2,0,0,2,0.83545,0.0,50.0
+restaurant,owners,4,2,2,0,0,0.899025,50.0,50.0
+restaurant,wait staff,4,2,2,0,0,0.92045,50.0,50.0
+restaurant,waitress,4,0,3,1,0,0.66495,75.0,0.0
+restaurant,wine list,4,3,1,0,0,0.939575,25.0,75.0
+restaurant,ambience,3,3,0,0,0,0.9137666666666666,0.0,100.0
+restaurant,appetizer,3,2,0,1,0,0.9161,0.0,66.66666666666666
+restaurant,brunch,3,0,0,3,0,0.9294333333333333,0.0,0.0
+restaurant,chef,3,2,0,1,0,0.7945333333333333,0.0,66.66666666666666
+restaurant,chicken,3,1,1,0,1,0.8576333333333332,33.33333333333333,33.33333333333333
+restaurant,cuisine,3,2,0,1,0,0.8062,0.0,66.66666666666666
+restaurant,french fries,3,3,0,0,0,0.9671666666666666,0.0,100.0
+restaurant,hostess,3,1,2,0,0,0.9028666666666667,66.66666666666666,33.33333333333333
+restaurant,selection,3,3,0,0,0,0.9691333333333333,0.0,100.0
+restaurant,servers,3,3,0,0,0,0.9456000000000001,0.0,100.0
+restaurant,soup,3,3,0,0,0,0.9722333333333334,0.0,100.0
+restaurant,steak,3,1,1,1,0,0.8059333333333333,33.33333333333333,33.33333333333333
+restaurant,steaks,3,2,1,0,0,0.8962,33.33333333333333,66.66666666666666
+restaurant,table,3,1,0,2,0,0.7891333333333334,0.0,33.33333333333333
+restaurant,tables,3,1,1,1,0,0.5854,33.33333333333333,33.33333333333333
+restaurant,tapas,3,3,0,0,0,0.9456333333333333,0.0,100.0
+restaurant,taste,3,1,2,0,0,0.7353,66.66666666666666,33.33333333333333
+restaurant,wait,3,2,1,0,0,0.8302999999999999,33.33333333333333,66.66666666666666
+restaurant,waitstaff,3,3,0,0,0,0.9405666666666667,0.0,100.0
+restaurant,bartenders,2,1,1,0,0,0.92995,50.0,50.0
+restaurant,calamari,2,2,0,0,0,0.78715,0.0,100.0
+restaurant,chairs,2,1,1,0,0,0.68045,50.0,50.0
+restaurant,chinese food,2,2,0,0,0,0.9619,0.0,100.0
+restaurant,cold sesame noodles,2,2,0,0,0,0.96985,0.0,100.0
+restaurant,deserts,2,2,0,0,0,0.9359999999999999,0.0,100.0
+restaurant,entree,2,1,1,0,0,0.8209,50.0,50.0
+restaurant,escargot,2,1,1,0,0,0.9337,50.0,50.0
+restaurant,falafel,2,2,0,0,0,0.97575,0.0,100.0
+restaurant,fish,2,1,0,1,0,0.80725,0.0,50.0
+restaurant,foie gras,2,2,0,0,0,0.80855,0.0,100.0
+restaurant,fresh juices,2,2,0,0,0,0.9693499999999999,0.0,100.0
+restaurant,glass of wine,2,0,0,2,0,0.7928999999999999,0.0,0.0
+restaurant,gnocchi,2,2,0,0,0,0.86355,0.0,100.0
+restaurant,hot dogs,2,2,0,0,0,0.9718500000000001,0.0,100.0
+restaurant,ingredients,2,2,0,0,0,0.97455,0.0,100.0
+restaurant,interior,2,1,1,0,0,0.6940500000000001,50.0,50.0
+restaurant,japanese food,2,2,0,0,0,0.8352999999999999,0.0,100.0
+restaurant,kitchen,2,0,0,2,0,0.6958500000000001,0.0,0.0
+restaurant,lamb,2,2,0,0,0,0.9601,0.0,100.0
+restaurant,lasagna,2,2,0,0,0,0.9731000000000001,0.0,100.0
+restaurant,meals,2,0,2,0,0,0.7513,100.0,0.0
+restaurant,meat,2,2,0,0,0,0.66635,0.0,100.0
+restaurant,pasta,2,2,0,0,0,0.9435,0.0,100.0
+restaurant,pastas,2,2,0,0,0,0.97365,0.0,100.0
+restaurant,patrons,2,0,1,1,0,0.5652,50.0,0.0
+restaurant,pie,2,1,0,1,0,0.70475,0.0,50.0
+restaurant,ribs,2,2,0,0,0,0.8054,0.0,100.0
+restaurant,room,2,1,0,0,1,0.89785,0.0,50.0
+restaurant,sangria,2,2,0,0,0,0.96675,0.0,100.0
+restaurant,seafood,2,2,0,0,0,0.96055,0.0,100.0
+restaurant,serve,2,1,1,0,0,0.81655,50.0,50.0
+restaurant,slices,2,2,0,0,0,0.8135,0.0,100.0
+restaurant,smoothies,2,2,0,0,0,0.93445,0.0,100.0
+restaurant,sweets,2,2,0,0,0,0.87405,0.0,100.0
+restaurant,takeout,2,2,0,0,0,0.9198,0.0,100.0
+restaurant,veggies,2,2,0,0,0,0.97775,0.0,100.0
+restaurant,wraps,2,2,0,0,0,0.9697,0.0,100.0
+restaurant,'s duck confitte,1,1,0,0,0,0.8493,0.0,100.0
+restaurant,-,1,1,0,0,0,0.7754,0.0,100.0
+restaurant,-candy,1,1,0,0,0,0.9751,0.0,100.0
+restaurant,-fried,1,0,0,0,1,0.6352,0.0,0.0
+restaurant,a rice medley,1,1,0,0,0,0.9764,0.0,100.0
+restaurant,a salad,1,0,0,1,0,0.9235,0.0,0.0
+restaurant,ac,1,0,1,0,0,0.8752,100.0,0.0
+restaurant,alias,1,1,0,0,0,0.9538,0.0,100.0
+restaurant,amazin' greens salads,1,1,0,0,0,0.9429,0.0,100.0
+restaurant,anchovy dressing,1,0,1,0,0,0.726,100.0,0.0
+restaurant,and garlic,1,1,0,0,0,0.9729,0.0,100.0
+restaurant,apetizers,1,1,0,0,0,0.9733,0.0,100.0
+restaurant,appetizer selection,1,0,1,0,0,0.8927,100.0,0.0
+restaurant,applebees,1,0,0,1,0,0.4939,0.0,0.0
+restaurant,arda,1,1,0,0,0,0.946,0.0,100.0
+restaurant,area,1,0,0,1,0,0.7437,0.0,0.0
+restaurant,argentine chorizo appetizer,1,0,0,1,0,0.6651,0.0,0.0
+restaurant,array,1,1,0,0,0,0.9758,0.0,100.0
+restaurant,asian fusion,1,0,1,0,0,0.481,100.0,0.0
+restaurant,asian salad,1,1,0,0,0,0.9722,0.0,100.0
+restaurant,asparagus,1,1,0,0,0,0.5546,0.0,100.0
+restaurant,atmoshere,1,1,0,0,0,0.3863,0.0,100.0
+restaurant,avocado salad,1,1,0,0,0,0.8319,0.0,100.0
+restaurant,back patio,1,0,0,1,0,0.7585,0.0,0.0
+restaurant,banana pudding,1,0,1,0,0,0.6452,100.0,0.0
+restaurant,bar service,1,0,1,0,0,0.7147,100.0,0.0
+restaurant,bathroom,1,1,0,0,0,0.9549,0.0,100.0
+restaurant,bbq rib,1,1,0,0,0,0.9744,0.0,100.0
+restaurant,bday cake,1,1,0,0,0,0.9624,0.0,100.0
+restaurant,bday party,1,1,0,0,0,0.959,0.0,100.0
+restaurant,beef,1,1,0,0,0,0.9677,0.0,100.0
+restaurant,beer,1,1,0,0,0,0.9754,0.0,100.0
+restaurant,beer list,1,1,0,0,0,0.9691,0.0,100.0
+restaurant,beer selection,1,1,0,0,0,0.9726,0.0,100.0
+restaurant,beers,1,1,0,0,0,0.9428,0.0,100.0
+restaurant,bis,1,1,0,0,0,0.807,0.0,100.0
+restaurant,black cod with miso base,1,1,0,0,0,0.9374,0.0,100.0
+restaurant,black roasted codfish,1,1,0,0,0,0.9751,0.0,100.0
+restaurant,black vinegar and shredded ginger,1,0,0,1,0,0.5432,0.0,0.0
+restaurant,blue bar area,1,0,0,1,0,0.436,0.0,0.0
+restaurant,blueberry pancakes,1,1,0,0,0,0.975,0.0,100.0
+restaurant,booth,1,1,0,0,0,0.5895,0.0,100.0
+restaurant,bottle of wine,1,1,0,0,0,0.7414,0.0,100.0
+restaurant,branzini,1,0,0,1,0,0.7323,0.0,0.0
+restaurant,bread,1,1,0,0,0,0.9667,0.0,100.0
+restaurant,breakfast,1,0,0,1,0,0.7322,0.0,0.0
+restaurant,breakfast food,1,0,0,1,0,0.8077,0.0,0.0
+restaurant,breakfast sandwiches,1,1,0,0,0,0.9759,0.0,100.0
+restaurant,brisket,1,1,0,0,0,0.4892,0.0,100.0
+restaurant,brunch menu,1,0,0,1,0,0.8888,0.0,0.0
+restaurant,buffalo chicken kickers,1,1,0,0,0,0.8681,0.0,100.0
+restaurant,burger,1,1,0,0,0,0.8985,0.0,100.0
+restaurant,burrito (,1,1,0,0,0,0.8854,0.0,100.0
+restaurant,buses,1,0,0,1,0,0.4964,0.0,0.0
+restaurant,cabs,1,0,0,1,0,0.5196,0.0,0.0
+restaurant,caeser salad,1,1,0,0,0,0.9733,0.0,100.0
+restaurant,cajun shrimp,1,1,0,0,0,0.5476,0.0,100.0
+restaurant,calf's liver,1,1,0,0,0,0.9743,0.0,100.0
+restaurant,cals,1,0,0,1,0,0.9031,0.0,0.0
+restaurant,candlelight,1,1,0,0,0,0.9668,0.0,100.0
+restaurant,carinthia cheese ravioli with wild mushrooms,1,1,0,0,0,0.9755,0.0,100.0
+restaurant,carrots,1,1,0,0,0,0.9749,0.0,100.0
+restaurant,casual lunches,1,1,0,0,0,0.9455,0.0,100.0
+restaurant,catfish,1,1,0,0,0,0.9594,0.0,100.0
+restaurant,caviar-topped sturgeon,1,1,0,0,0,0.9735,0.0,100.0
+restaurant,cheese,1,1,0,0,0,0.9762,0.0,100.0
+restaurant,cheese baclava,1,1,0,0,0,0.978,0.0,100.0
+restaurant,cheese plate,1,0,0,1,0,0.4805,0.0,0.0
+restaurant,cheese-,1,0,0,1,0,0.5695,0.0,0.0
+restaurant,cherry marscapone,1,0,0,1,0,0.5322,0.0,0.0
+restaurant,chick peas with shrimp (appetizer,1,1,0,0,0,0.8139,0.0,100.0
+restaurant,chicken and falafel platters,1,0,0,1,0,0.5766,0.0,0.0
+restaurant,chicken and shrimp dishs,1,1,0,0,0,0.9777,0.0,100.0
+restaurant,chicken dinner,1,1,0,0,0,0.973,0.0,100.0
+restaurant,chicken mcnuggets,1,1,0,0,0,0.8952,0.0,100.0
+restaurant,chicken milanese,1,1,0,0,0,0.879,0.0,100.0
+restaurant,chicken parmigiana,1,1,0,0,0,0.9695,0.0,100.0
+restaurant,chicken tacos,1,1,0,0,0,0.9731,0.0,100.0
+restaurant,chicken teriyaki,1,0,0,1,0,0.9221,0.0,0.0
+restaurant,chicken with a mountain of rice and beans,1,0,0,1,0,0.8423,0.0,0.0
+restaurant,chicken with avocado,1,1,0,0,0,0.9751,0.0,100.0
+restaurant,chickpeas,1,1,0,0,0,0.9741,0.0,100.0
+restaurant,chili,1,0,0,1,0,0.5991,0.0,0.0
+restaurant,chinese,1,1,0,0,0,0.9701,0.0,100.0
+restaurant,chocolate and peanut butter tart,1,1,0,0,0,0.7249,0.0,100.0
+restaurant,chocolate frosty,1,1,0,0,0,0.9763,0.0,100.0
+restaurant,chocolate raspberry cake,1,0,0,0,1,0.8237,0.0,0.0
+restaurant,churrasco and ribs),1,1,0,0,0,0.925,0.0,100.0
+restaurant,cinna stix,1,1,0,0,0,0.8878,0.0,100.0
+restaurant,classic french dish,1,1,0,0,0,0.9246,0.0,100.0
+restaurant,client,1,0,1,0,0,0.8838,100.0,0.0
+restaurant,coats,1,0,1,0,0,0.6473,100.0,0.0
+restaurant,cocktail hour,1,0,0,1,0,0.6945,0.0,0.0
+restaurant,cocktail menu,1,1,0,0,0,0.9754,0.0,100.0
+restaurant,cocoa,1,1,0,0,0,0.9737,0.0,100.0
+restaurant,coconut rice,1,1,0,0,0,0.7597,0.0,100.0
+restaurant,con,1,1,0,0,0,0.9412,0.0,100.0
+restaurant,cooked,1,1,0,0,0,0.9766,0.0,100.0
+restaurant,cooked food,1,1,0,0,0,0.6789,0.0,100.0
+restaurant,cookie,1,0,1,0,0,0.7371,100.0,0.0
+restaurant,cosi sandwiches,1,0,1,0,0,0.3535,100.0,0.0
+restaurant,cost,1,0,1,0,0,0.8539,100.0,0.0
+restaurant,courses,1,0,0,1,0,0.8805,0.0,0.0
+restaurant,crab cakes,1,1,0,0,0,0.9751,0.0,100.0
+restaurant,crabcakes,1,0,1,0,0,0.7099,100.0,0.0
+restaurant,creamy appetizers,1,1,0,0,0,0.9716,0.0,100.0
+restaurant,crepes,1,1,0,0,0,0.9543,0.0,100.0
+restaurant,crowd,1,0,0,0,1,0.679,0.0,0.0
+restaurant,cubes,1,0,0,1,0,0.5261,0.0,0.0
+restaurant,curried casseroles,1,0,1,0,0,0.5904,100.0,0.0
+restaurant,curry,1,1,0,0,0,0.9589,0.0,100.0
+restaurant,curry leaf,1,1,0,0,0,0.9116,0.0,100.0
+restaurant,dabs of real mozzarella,1,1,0,0,0,0.9764,0.0,100.0
+restaurant,dance floor,1,1,0,0,0,0.5517,0.0,100.0
+restaurant,dark chicken,1,0,1,0,0,0.7294,100.0,0.0
+restaurant,deco and ambiance,1,1,0,0,0,0.97,0.0,100.0
+restaurant,decoration,1,0,1,0,0,0.4642,100.0,0.0
+restaurant,delivary,1,0,1,0,0,0.5407,100.0,0.0
+restaurant,delivers,1,1,0,0,0,0.9716,0.0,100.0
+restaurant,delivery,1,1,0,0,0,0.9707,0.0,100.0
+restaurant,delivery service,1,1,0,0,0,0.8732,0.0,100.0
+restaurant,delivery times,1,1,0,0,0,0.936,0.0,100.0
+restaurant,delmonico steak,1,0,1,0,0,0.7718,100.0,0.0
+restaurant,design,1,1,0,0,0,0.9724,0.0,100.0
+restaurant,dessert menu,1,1,0,0,0,0.9385,0.0,100.0
+restaurant,dessert pizza,1,0,0,1,0,0.811,0.0,0.0
+restaurant,dine-in,1,0,0,1,0,0.9117,0.0,0.0
+restaurant,dining atmosphere,1,1,0,0,0,0.9771,0.0,100.0
+restaurant,dining experience,1,0,1,0,0,0.8782,100.0,0.0
+restaurant,dinner cruise,1,0,0,1,0,0.6018,0.0,0.0
+restaurant,dinner menu,1,1,0,0,0,0.9726,0.0,100.0
+restaurant,dinner specials,1,1,0,0,0,0.9752,0.0,100.0
+restaurant,dinners,1,0,1,0,0,0.5687,100.0,0.0
+restaurant,display,1,0,1,0,0,0.34,100.0,0.0
+restaurant,door,1,1,0,0,0,0.6931,0.0,100.0
+restaurant,dos,1,0,0,1,0,0.8528,0.0,0.0
+restaurant,dosa,1,0,0,1,0,0.7794,0.0,0.0
+restaurant,downstairs bar scene,1,1,0,0,0,0.9649,0.0,100.0
+restaurant,duck,1,1,0,0,0,0.9657,0.0,100.0
+restaurant,duck here,1,1,0,0,0,0.975,0.0,100.0
+restaurant,dumplings,1,1,0,0,0,0.9778,0.0,100.0
+restaurant,e pasta,1,1,0,0,0,0.961,0.0,100.0
+restaurant,eat-in burger,1,1,0,0,0,0.8966,0.0,100.0
+restaurant,eating,1,0,1,0,0,0.4214,100.0,0.0
+restaurant,eating area,1,1,0,0,0,0.4486,0.0,100.0
+restaurant,egg,1,0,1,0,0,0.6777,100.0,0.0
+restaurant,egg mcmuffin sandwich,1,1,0,0,0,0.6519,0.0,100.0
+restaurant,eggplant salad,1,1,0,0,0,0.9754,0.0,100.0
+restaurant,eggs benedict,1,1,0,0,0,0.9735,0.0,100.0
+restaurant,empenadas,1,1,0,0,0,0.9729,0.0,100.0
+restaurant,employees,1,0,0,0,1,0.5598,0.0,0.0
+restaurant,english muffins,1,1,0,0,0,0.9765,0.0,100.0
+restaurant,entree-sized salads,1,1,0,0,0,0.9097,0.0,100.0
+restaurant,esp lychee martini,1,1,0,0,0,0.9763,0.0,100.0
+restaurant,fajita,1,0,1,0,0,0.8391,100.0,0.0
+restaurant,falafal,1,0,0,0,1,0.6849,0.0,0.0
+restaurant,falafel wraps,1,1,0,0,0,0.9231,0.0,100.0
+restaurant,feel,1,1,0,0,0,0.9466,0.0,100.0
+restaurant,fennel,1,1,0,0,0,0.9418,0.0,100.0
+restaurant,fettuccine alfredo,1,1,0,0,0,0.971,0.0,100.0
+restaurant,fettucino alfredo,1,1,0,0,0,0.9733,0.0,100.0
+restaurant,filet mignon,1,0,1,0,0,0.6189,100.0,0.0
+restaurant,filet-o-fish sandwich,1,1,0,0,0,0.9267,0.0,100.0
+restaurant,filling,1,1,0,0,0,0.9654,0.0,100.0
+restaurant,flan,1,1,0,0,0,0.7799,0.0,100.0
+restaurant,flavors,1,0,0,0,1,0.4571,0.0,0.0
+restaurant,focacchia bread,1,1,0,0,0,0.5351,0.0,100.0
+restaurant,foie gras unagi napolean,1,1,0,0,0,0.9657,0.0,100.0
+restaurant,folding chair,1,0,1,0,0,0.8707,100.0,0.0
+restaurant,food portion,1,0,1,0,0,0.8515,100.0,0.0
+restaurant,fork,1,0,0,1,0,0.6579,0.0,0.0
+restaurant,fortune cookies,1,0,1,0,0,0.8114,100.0,0.0
+restaurant,french food,1,1,0,0,0,0.9645,0.0,100.0
+restaurant,fresh juice concoctions,1,1,0,0,0,0.896,0.0,100.0
+restaurant,fresh leaf salad,1,1,0,0,0,0.822,0.0,100.0
+restaurant,fresh seafood,1,1,0,0,0,0.9739,0.0,100.0
+restaurant,fried calamari,1,1,0,0,0,0.9249,0.0,100.0
+restaurant,fried foods,1,0,0,0,1,0.5123,0.0,0.0
+restaurant,fried pancake served with pungent curry dipping sauce,1,1,0,0,0,0.9721,0.0,100.0
+restaurant,fried pork dumplings,1,1,0,0,0,0.7073,0.0,100.0
+restaurant,fried rice,1,1,0,0,0,0.4828,0.0,100.0
+restaurant,garden,1,1,0,0,0,0.9208,0.0,100.0
+restaurant,garlic knots,1,1,0,0,0,0.9712,0.0,100.0
+restaurant,garlic shrimp,1,0,0,1,0,0.7572,0.0,0.0
+restaurant,garlic soup,1,1,0,0,0,0.9652,0.0,100.0
+restaurant,gourmet food,1,0,0,1,0,0.7806,0.0,0.0
+restaurant,grand marnier shrimp,1,1,0,0,0,0.9631,0.0,100.0
+restaurant,greek food,1,1,0,0,0,0.9418,0.0,100.0
+restaurant,"greek yogurt (with cuccumber, dill",1,1,0,0,0,0.9728,0.0,100.0
+restaurant,green beans,1,0,1,0,0,0.673,100.0,0.0
+restaurant,green chillis,1,0,1,0,0,0.7047,100.0,0.0
+restaurant,green spinach-vodka sauce,1,1,0,0,0,0.9756,0.0,100.0
+restaurant,grill,1,1,0,0,0,0.9135,0.0,100.0
+restaurant,grilled cheeses,1,1,0,0,0,0.9759,0.0,100.0
+restaurant,ground chickpea soup,1,0,1,0,0,0.6017,100.0,0.0
+restaurant,guac,1,0,0,0,1,0.7429,0.0,0.0
+restaurant,guacamole,1,1,0,0,0,0.9772,0.0,100.0
+restaurant,guest,1,1,0,0,0,0.8761,0.0,100.0
+restaurant,halibut cheek appetizer,1,0,0,1,0,0.5514,0.0,0.0
+restaurant,ham,1,1,0,0,0,0.9553,0.0,100.0
+restaurant,hamburger,1,1,0,0,0,0.9571,0.0,100.0
+restaurant,hamburger with special sauce,1,1,0,0,0,0.7167,0.0,100.0
+restaurant,heat,1,0,1,0,0,0.8537,100.0,0.0
+restaurant,help,1,1,0,0,0,0.9587,0.0,100.0
+restaurant,hibiscus lemonade,1,1,0,0,0,0.9737,0.0,100.0
+restaurant,homemade breads,1,1,0,0,0,0.9717,0.0,100.0
+restaurant,honey bbq rib tips,1,1,0,0,0,0.976,0.0,100.0
+restaurant,hong kong-style,1,1,0,0,0,0.9314,0.0,100.0
+restaurant,hot,1,0,1,0,0,0.8655,100.0,0.0
+restaurant,hot cakes,1,1,0,0,0,0.9485,0.0,100.0
+restaurant,hot white mocha,1,1,0,0,0,0.9667,0.0,100.0
+restaurant,humus,1,1,0,0,0,0.974,0.0,100.0
+restaurant,ice drink,1,1,0,0,0,0.9682,0.0,100.0
+restaurant,iced blended mocha,1,1,0,0,0,0.9477,0.0,100.0
+restaurant,icing,1,0,0,0,1,0.5314,0.0,0.0
+restaurant,inviting,1,1,0,0,0,0.9767,0.0,100.0
+restaurant,irish bartender,1,1,0,0,0,0.9732,0.0,100.0
+restaurant,italian cuisine,1,1,0,0,0,0.9773,0.0,100.0
+restaurant,italian food,1,1,0,0,0,0.9713,0.0,100.0
+restaurant,italian items,1,1,0,0,0,0.974,0.0,100.0
+restaurant,italian meal,1,1,0,0,0,0.9747,0.0,100.0
+restaurant,italian sausage,1,1,0,0,0,0.9103,0.0,100.0
+restaurant,jap style hamburger steak,1,1,0,0,0,0.9611,0.0,100.0
+restaurant,japanese dishes,1,1,0,0,0,0.9647,0.0,100.0
+restaurant,jazz,1,1,0,0,0,0.8978,0.0,100.0
+restaurant,kalmata dip,1,1,0,0,0,0.9688,0.0,100.0
+restaurant,kimono shrimp special,1,0,0,0,1,0.7852,0.0,0.0
+restaurant,king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce,1,1,0,0,0,0.971,0.0,100.0
+restaurant,kitchen food,1,1,0,0,0,0.9581,0.0,100.0
+restaurant,kitchenette,1,0,0,1,0,0.9323,0.0,0.0
+restaurant,kompot,1,1,0,0,0,0.9563,0.0,100.0
+restaurant,korean dishes,1,1,0,0,0,0.9677,0.0,100.0
+restaurant,lamb chops,1,1,0,0,0,0.9745,0.0,100.0
+restaurant,lamb entree,1,1,0,0,0,0.959,0.0,100.0
+restaurant,lamb kebabs,1,1,0,0,0,0.9773,0.0,100.0
+restaurant,landscaping,1,1,0,0,0,0.9745,0.0,100.0
+restaurant,latin food,1,1,0,0,0,0.9651,0.0,100.0
+restaurant,lemon-dressed cobb,1,1,0,0,0,0.9685,0.0,100.0
+restaurant,lemons,1,0,1,0,0,0.6112,100.0,0.0
+restaurant,lighting,1,0,1,0,0,0.8533,100.0,0.0
+restaurant,live entertainment,1,1,0,0,0,0.9512,0.0,100.0
+restaurant,lobster meat,1,0,0,1,0,0.5867,0.0,0.0
+restaurant,lobster ravioli,1,1,0,0,0,0.9742,0.0,100.0
+restaurant,lobster risotto,1,1,0,0,0,0.9743,0.0,100.0
+restaurant,location,1,0,1,0,0,0.5496,100.0,0.0
+restaurant,look,1,1,0,0,0,0.4068,0.0,100.0
+restaurant,lounge,1,0,0,1,0,0.6428,0.0,0.0
+restaurant,lunchtime,1,0,0,0,1,0.4642,0.0,0.0
+restaurant,mac and cheese,1,0,1,0,0,0.8865,100.0,0.0
+restaurant,mac cheese,1,1,0,0,0,0.7529,0.0,100.0
+restaurant,macadamia-crusted mahi mahi,1,1,0,0,0,0.9582,0.0,100.0
+restaurant,main courses,1,1,0,0,0,0.8966,0.0,100.0
+restaurant,maison,1,1,0,0,0,0.9653,0.0,100.0
+restaurant,malted milk ball gelato,1,1,0,0,0,0.9046,0.0,100.0
+restaurant,management,1,0,1,0,0,0.7714,100.0,0.0
+restaurant,managers,1,1,0,0,0,0.9549,0.0,100.0
+restaurant,mango chicken,1,1,0,0,0,0.9742,0.0,100.0
+restaurant,mango margareta,1,1,0,0,0,0.9713,0.0,100.0
+restaurant,margarita,1,1,0,0,0,0.9371,0.0,100.0
+restaurant,meatball parm,1,1,0,0,0,0.9631,0.0,100.0
+restaurant,meats,1,0,1,0,0,0.8524,100.0,0.0
+restaurant,meaty chili,1,1,0,0,0,0.9639,0.0,100.0
+restaurant,mediterranean delights,1,1,0,0,0,0.9721,0.0,100.0
+restaurant,mediterranean fare,1,1,0,0,0,0.9465,0.0,100.0
+restaurant,mediterranean salads,1,1,0,0,0,0.8976,0.0,100.0
+restaurant,menus,1,1,0,0,0,0.8944,0.0,100.0
+restaurant,microwave taste,1,1,0,0,0,0.8695,0.0,100.0
+restaurant,middle eastern spreads,1,1,0,0,0,0.9736,0.0,100.0
+restaurant,milkshakes,1,1,0,0,0,0.9025,0.0,100.0
+restaurant,mojito,1,0,0,1,0,0.5756,0.0,0.0
+restaurant,mojitos,1,1,0,0,0,0.9738,0.0,100.0
+restaurant,mole sauce,1,0,1,0,0,0.8897,100.0,0.0
+restaurant,mozzarella sticks,1,0,0,1,0,0.5569,0.0,0.0
+restaurant,munchies,1,0,0,1,0,0.3589,0.0,0.0
+restaurant,mushroom barley soup,1,1,0,0,0,0.9734,0.0,100.0
+restaurant,mussels,1,1,0,0,0,0.975,0.0,100.0
+restaurant,naan,1,1,0,0,0,0.9718,0.0,100.0
+restaurant,nicoise olives,1,0,1,0,0,0.5469,100.0,0.0
+restaurant,nicoise salad,1,0,1,0,0,0.7912,100.0,0.0
+restaurant,nj-based pork product,1,1,0,0,0,0.9739,0.0,100.0
+restaurant,noise,1,0,0,0,1,0.5973,0.0,0.0
+restaurant,non-meat alternatives,1,0,0,1,0,0.5795,0.0,0.0
+restaurant,non-sushi selection,1,1,0,0,0,0.9427,0.0,100.0
+restaurant,noodle dishes,1,1,0,0,0,0.908,0.0,100.0
+restaurant,odessa stew,1,1,0,0,0,0.9524,0.0,100.0
+restaurant,of a braised lamb shank with mashed potatoes,1,1,0,0,0,0.9641,0.0,100.0
+restaurant,offerings,1,1,0,0,0,0.8801,0.0,100.0
+restaurant,on sweet-and-sour,1,1,0,0,0,0.9761,0.0,100.0
+restaurant,onion rings,1,1,0,0,0,0.9683,0.0,100.0
+restaurant,options,1,1,0,0,0,0.5766,0.0,100.0
+restaurant,orange chicken/beef,1,1,0,0,0,0.6432,0.0,100.0
+restaurant,orange donut,1,0,0,1,0,0.9222,0.0,0.0
+restaurant,order,1,0,1,0,0,0.4884,100.0,0.0
+restaurant,organic grilled burgers,1,1,0,0,0,0.5899,0.0,100.0
+restaurant,oven,1,0,1,0,0,0.8565,100.0,0.0
+restaurant,paint,1,0,0,0,1,0.6076,0.0,0.0
+restaurant,paper-thin apple tart,1,1,0,0,0,0.9651,0.0,100.0
+restaurant,paratha,1,1,0,0,0,0.9738,0.0,100.0
+restaurant,parking,1,1,0,0,0,0.9366,0.0,100.0
+restaurant,parmesan cheese,1,0,0,1,0,0.8801,0.0,0.0
+restaurant,party,1,0,0,1,0,0.5187,0.0,0.0
+restaurant,pasta primavera,1,1,0,0,0,0.9739,0.0,100.0
+restaurant,pasta specials,1,1,0,0,0,0.9735,0.0,100.0
+restaurant,pastor,1,1,0,0,0,0.9541,0.0,100.0
+restaurant,patties,1,1,0,0,0,0.9118,0.0,100.0
+restaurant,peanut butter sorbet,1,1,0,0,0,0.9703,0.0,100.0
+restaurant,pialla,1,1,0,0,0,0.6496,0.0,100.0
+restaurant,pitas,1,1,0,0,0,0.9631,0.0,100.0
+restaurant,pizza with soy cheese,1,1,0,0,0,0.9729,0.0,100.0
+restaurant,pizzas,1,1,0,0,0,0.9685,0.0,100.0
+restaurant,plaintains,1,1,0,0,0,0.973,0.0,100.0
+restaurant,plate,1,0,0,1,0,0.8289,0.0,0.0
+restaurant,portabella lasagna,1,1,0,0,0,0.8891,0.0,100.0
+restaurant,portion,1,1,0,0,0,0.7485,0.0,100.0
+restaurant,portion size,1,1,0,0,0,0.9643,0.0,100.0
+restaurant,portobello/gorgonzola/sausage appetizer,1,1,0,0,0,0.9695,0.0,100.0
+restaurant,portuguese cheese cart,1,1,0,0,0,0.9734,0.0,100.0
+restaurant,potato gratin,1,1,0,0,0,0.9704,0.0,100.0
+restaurant,potato spinach gnocchi,1,1,0,0,0,0.962,0.0,100.0
+restaurant,power lunch,1,0,1,0,0,0.6108,100.0,0.0
+restaurant,prix fixe menu,1,0,0,1,0,0.741,0.0,0.0
+restaurant,pub fare,1,1,0,0,0,0.9211,0.0,100.0
+restaurant,quality port,1,1,0,0,0,0.9702,0.0,100.0
+restaurant,quesedilla,1,0,0,1,0,0.8329,0.0,0.0
+restaurant,rabbit,1,1,0,0,0,0.9672,0.0,100.0
+restaurant,rabbit stew,1,1,0,0,0,0.9476,0.0,100.0
+restaurant,rack of lamb in black truffle sauce,1,1,0,0,0,0.9108,0.0,100.0
+restaurant,red onion,1,0,1,0,0,0.6174,100.0,0.0
+restaurant,red velvet),1,1,0,0,0,0.968,0.0,100.0
+restaurant,refreshing,1,1,0,0,0,0.9746,0.0,100.0
+restaurant,regulars,1,0,1,0,0,0.8509,100.0,0.0
+restaurant,reservation,1,0,0,1,0,0.795,0.0,0.0
+restaurant,reservations,1,0,0,1,0,0.6579,0.0,0.0
+restaurant,rice,1,1,0,0,0,0.9725,0.0,100.0
+restaurant,rice dishes,1,1,0,0,0,0.9058,0.0,100.0
+restaurant,rice milk,1,0,0,1,0,0.8317,0.0,0.0
+restaurant,roast chicken,1,0,0,1,0,0.9114,0.0,0.0
+restaurant,roasted chickens,1,1,0,0,0,0.9241,0.0,100.0
+restaurant,rolls,1,1,0,0,0,0.9118,0.0,100.0
+restaurant,rolls with crab,1,1,0,0,0,0.9719,0.0,100.0
+restaurant,rooftop bar,1,0,0,1,0,0.731,0.0,0.0
+restaurant,root vegetables,1,1,0,0,0,0.9772,0.0,100.0
+restaurant,rose roll,1,1,0,0,0,0.9162,0.0,100.0
+restaurant,roti canai appetizer,1,1,0,0,0,0.9755,0.0,100.0
+restaurant,round corner table,1,0,0,1,0,0.7705,0.0,0.0
+restaurant,saag gosht,1,1,0,0,0,0.9725,0.0,100.0
+restaurant,saketini,1,1,0,0,0,0.4142,0.0,100.0
+restaurant,salad,1,0,0,1,0,0.6707,0.0,0.0
+restaurant,salad dressing,1,0,0,1,0,0.6879,0.0,0.0
+restaurant,salads (avocado shrimp,1,1,0,0,0,0.9541,0.0,100.0
+restaurant,sales,1,0,1,0,0,0.7963,100.0,0.0
+restaurant,salmon,1,0,0,1,0,0.4685,0.0,0.0
+restaurant,salmon dishes,1,1,0,0,0,0.9584,0.0,100.0
+restaurant,salsa,1,1,0,0,0,0.8322,0.0,100.0
+restaurant,sandwich meal,1,1,0,0,0,0.9667,0.0,100.0
+restaurant,sashimi,1,0,1,0,0,0.4847,100.0,0.0
+restaurant,sashimi portion,1,1,0,0,0,0.3536,0.0,100.0
+restaurant,sauce cart,1,0,0,1,0,0.8652,0.0,0.0
+restaurant,sauces,1,0,0,1,0,0.7702,0.0,0.0
+restaurant,scallops,1,1,0,0,0,0.6225,0.0,100.0
+restaurant,scene,1,1,0,0,0,0.9623,0.0,100.0
+restaurant,scenery,1,1,0,0,0,0.91,0.0,100.0
+restaurant,seafood joint,1,1,0,0,0,0.9676,0.0,100.0
+restaurant,seafood paella,1,0,0,1,0,0.6802,0.0,0.0
+restaurant,seated,1,1,0,0,0,0.5049,0.0,100.0
+restaurant,seats,1,1,0,0,0,0.8194,0.0,100.0
+restaurant,selection of food,1,1,0,0,0,0.9484,0.0,100.0
+restaurant,selection of wines,1,1,0,0,0,0.9704,0.0,100.0
+restaurant,selection of wines (,1,1,0,0,0,0.9754,0.0,100.0
+restaurant,server,1,1,0,0,0,0.9657,0.0,100.0
+restaurant,setting,1,1,0,0,0,0.9724,0.0,100.0
+restaurant,shepherds pie,1,1,0,0,0,0.887,0.0,100.0
+restaurant,shi,1,1,0,0,0,0.8527,0.0,100.0
+restaurant,show,1,0,0,1,0,0.8055,0.0,0.0
+restaurant,show tickets,1,0,1,0,0,0.8226,100.0,0.0
+restaurant,shrimp creole,1,1,0,0,0,0.975,0.0,100.0
+restaurant,silken creme brulee,1,1,0,0,0,0.9725,0.0,100.0
+restaurant,simple soup,1,1,0,0,0,0.9212,0.0,100.0
+restaurant,size,1,0,1,0,0,0.7712,100.0,0.0
+restaurant,sliced steak entree,1,1,0,0,0,0.9249,0.0,100.0
+restaurant,smoked trout,1,1,0,0,0,0.9722,0.0,100.0
+restaurant,snack,1,1,0,0,0,0.9562,0.0,100.0
+restaurant,soft shell crab,1,1,0,0,0,0.8073,0.0,100.0
+restaurant,soft shell crab sandwich with fries,1,1,0,0,0,0.9629,0.0,100.0
+restaurant,sopaipillas,1,1,0,0,0,0.7816,0.0,100.0
+restaurant,sorbets,1,1,0,0,0,0.9713,0.0,100.0
+restaurant,soul food,1,1,0,0,0,0.9709,0.0,100.0
+restaurant,soup and,1,1,0,0,0,0.9668,0.0,100.0
+restaurant,soups,1,0,0,1,0,0.8207,0.0,0.0
+restaurant,sour soup,1,1,0,0,0,0.9721,0.0,100.0
+restaurant,soy mayonaise,1,1,0,0,0,0.7334,0.0,100.0
+restaurant,soy sauce,1,0,0,1,0,0.8198,0.0,0.0
+restaurant,spanish,1,1,0,0,0,0.9693,0.0,100.0
+restaurant,specials,1,1,0,0,0,0.6732,0.0,100.0
+restaurant,spice,1,0,1,0,0,0.4892,100.0,0.0
+restaurant,spices,1,1,0,0,0,0.9741,0.0,100.0
+restaurant,spicy cod roe spaghetti,1,1,0,0,0,0.9454,0.0,100.0
+restaurant,spicy mussels,1,1,0,0,0,0.9773,0.0,100.0
+restaurant,spicy tuna roll,1,1,0,0,0,0.9701,0.0,100.0
+restaurant,spinach thing,1,1,0,0,0,0.9717,0.0,100.0
+restaurant,sports,1,1,0,0,0,0.5494,0.0,100.0
+restaurant,spot,1,1,0,0,0,0.9488,0.0,100.0
+restaurant,staff members,1,1,0,0,0,0.9706,0.0,100.0
+restaurant,staff memebers,1,1,0,0,0,0.9692,0.0,100.0
+restaurant,staff person,1,0,0,1,0,0.6479,0.0,0.0
+restaurant,stock,1,0,0,1,0,0.8537,0.0,0.0
+restaurant,street,1,1,0,0,0,0.6436,0.0,100.0
+restaurant,stuffed baked potatoes,1,1,0,0,0,0.9565,0.0,100.0
+restaurant,su,1,1,0,0,0,0.8977,0.0,100.0
+restaurant,subtly sweet honey-mustard beef short ribs,1,1,0,0,0,0.9495,0.0,100.0
+restaurant,sushi lunch,1,1,0,0,0,0.9265,0.0,100.0
+restaurant,sushi/sashimi,1,0,0,0,1,0.5048,0.0,0.0
+restaurant,sweet corn-foie gras brulee,1,1,0,0,0,0.9406,0.0,100.0
+restaurant,ta,1,1,0,0,0,0.921,0.0,100.0
+restaurant,tabouleh,1,1,0,0,0,0.9746,0.0,100.0
+restaurant,tacos),1,1,0,0,0,0.7858,0.0,100.0
+restaurant,taglierini with truffles,1,1,0,0,0,0.9729,0.0,100.0
+restaurant,take-out,1,0,0,1,0,0.9179,0.0,0.0
+restaurant,taramasalata,1,1,0,0,0,0.9745,0.0,100.0
+restaurant,tart,1,1,0,0,0,0.9745,0.0,100.0
+restaurant,tator tots,1,1,0,0,0,0.9761,0.0,100.0
+restaurant,teas,1,1,0,0,0,0.975,0.0,100.0
+restaurant,teriyaki,1,1,0,0,0,0.97,0.0,100.0
+restaurant,texture,1,1,0,0,0,0.9707,0.0,100.0
+restaurant,the cheese plate,1,1,0,0,0,0.8165,0.0,100.0
+restaurant,thick fries,1,1,0,0,0,0.9727,0.0,100.0
+restaurant,ting,1,1,0,0,0,0.9206,0.0,100.0
+restaurant,to,1,1,0,0,0,0.9284,0.0,100.0
+restaurant,toppings,1,1,0,0,0,0.9668,0.0,100.0
+restaurant,touch,1,1,0,0,0,0.972,0.0,100.0
+restaurant,treats,1,1,0,0,0,0.9412,0.0,100.0
+restaurant,tuna,1,1,0,0,0,0.9751,0.0,100.0
+restaurant,twist,1,0,0,0,1,0.8538,0.0,0.0
+restaurant,utensils,1,0,0,1,0,0.6223,0.0,0.0
+restaurant,variety,1,1,0,0,0,0.4722,0.0,100.0
+restaurant,veal chops,1,1,0,0,0,0.9746,0.0,100.0
+restaurant,vegan cranberry pancakes,1,1,0,0,0,0.7783,0.0,100.0
+restaurant,vegan options,1,1,0,0,0,0.9555,0.0,100.0
+restaurant,vegetable garden,1,1,0,0,0,0.9458,0.0,100.0
+restaurant,vegetable risotto,1,0,1,0,0,0.6836,100.0,0.0
+restaurant,vegetables,1,1,0,0,0,0.971,0.0,100.0
+restaurant,vegetarian,1,1,0,0,0,0.756,0.0,100.0
+restaurant,vegetarian platters,1,1,0,0,0,0.7254,0.0,100.0
+restaurant,veggie burger,1,1,0,0,0,0.9727,0.0,100.0
+restaurant,vibe,1,1,0,0,0,0.9755,0.0,100.0
+restaurant,vietnamese beef noodle soup,1,0,0,1,0,0.8948,0.0,0.0
+restaurant,voice,1,1,0,0,0,0.9704,0.0,100.0
+restaurant,waiting,1,0,1,0,0,0.7427,100.0,0.0
+restaurant,waitress's,1,0,1,0,0,0.682,100.0,0.0
+restaurant,waitresses,1,1,0,0,0,0.9727,0.0,100.0
+restaurant,weekends,1,0,0,0,1,0.8474,0.0,0.0
+restaurant,wheat crusted pizza made,1,1,0,0,0,0.976,0.0,100.0
+restaurant,window,1,0,0,1,0,0.5072,0.0,0.0
+restaurant,wings,1,0,0,0,1,0.4697,0.0,0.0
+restaurant,"with beets, goat cheese and walnuts",1,1,0,0,0,0.9552,0.0,100.0
+restaurant,yellowfin tuna,1,1,0,0,0,0.9749,0.0,100.0
